@@ -1,0 +1,10 @@
+<html>
+    <head><title>
+        AWS
+    </title></head>
+    <body>
+        <h1>
+            Welcome to Amazon web services...:)
+        </h1>
+    </body>
+</html>
